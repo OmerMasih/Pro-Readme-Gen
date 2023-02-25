@@ -35,6 +35,10 @@ https://app.screencast.com/F9N5Hk2iSTU2r
 15- THEN I am taken to the corresponding section of the README
 
 
+<img width="1234" alt="Screen Shot 2023-02-24 at 11 37 15 PM" src="https://user-images.githubusercontent.com/111917255/221345765-74370488-7bac-4611-b82b-8fe07e723d0d.png">
+
+
+
 
 
 
